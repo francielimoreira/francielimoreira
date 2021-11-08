@@ -5,7 +5,8 @@
   <a href="https://https://www.instagram.com/francielimoreira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/francielidecarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </h1>
 
-- 🔭 Trabalho como bolsista no Centro de Excelência em Inteligência Artificial
+- 🔭 Bolsista no Centro de Excelência em Inteligência Artificial
+- 🔭 Diretora Administrativo-Financeiro na Level 5 Jr.
 - 🌱 Estudando Inteligência Artificial na Universidade Federal de Goiás
 - 😄 Pronouns: ela/dela
 
