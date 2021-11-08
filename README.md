@@ -1,4 +1,4 @@
-### Olá! Eu sou a Francieli Moreira
+### Oiii! Eu sou a Francieli Moreira
 
 - 🔭 Trabalho como bolsista no Centro de Excelência em Inteligência Artificial
 - 🌱 Estudando Inteligência Artificial na Universidade Federal de Goiás
