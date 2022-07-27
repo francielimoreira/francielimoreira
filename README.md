@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 👯 Também monitoraa no projeto Educação Digital do **Instituto de Informática-UFG**
+- 👯 Também sou monitora no projeto Educação Digital do **Instituto de Informática-UFG**
 
 - 💬 Me pergunte sobre **Python, C e Machine Learning**
 
