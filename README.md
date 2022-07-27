@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou a Francieli Moreira</h1>
 <h3 align="center">Apaixonada por ciência dados no mundo digital</h3>
 
-- 🔭 Sou graduanda de Inteligência Artificial e pesquisadora no **Centro de Excelência em Inteligência Artificial**
+- 🔭 Sou graduanda de **Inteligência Artificial** e pesquisadora no **Centro de Excelência em Inteligência Artificial**
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
