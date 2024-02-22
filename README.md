@@ -29,6 +29,8 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/francielidecarvalho/) and [E-mail](francieli.mcarvalho@gmail.com) 
 
 - 🥅 2024 Goals: Contribute to Open Source projects and Learn more technologies
+  
+- 🎤 Give talks at events on technology-related topics
 
 - ⚡ Fun fact: I love playing sports and electronic music
 
