@@ -1,21 +1,30 @@
-<h1 align="center">Oi 👋, Eu sou a Francieli Moreira</h1>
-<h3 align="center">Apaixonada por ciência dados no mundo digital</h3>
+<div align="center">
+<img src="https://github.com/aenq/aenq/blob/main/welcome-black-min.gif" alt="Welcome">
 
-- 🔭 Sou graduanda de **Inteligência Artificial** e pesquisadora no **Centro de Excelência em Inteligência Artificial**
+## Github Stats
+<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
+ -->
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
+<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&theme=dark&show_icons=true)  -->
+<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aenq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+</div>
+<!--
+## Find me on
+<p>
+  <a href="mailto:francieli.mcarvalho@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/francielidecarvalho"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/francielimoreira_"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://open.spotify.com/user/zwz7odfdomevmm2rh1iqjmmp0"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+ -->
 
-- 👯 Também sou monitora no projeto Educação Digital do **Instituto de Informática-UFG**
+<br>
+<div align="center">
+<p>Thank you for visiting my profile, please leave something in my guestbook 👇 :</p>
+ <a href="https://github.com/aenq/aenq/issues/3#issuecomment-new"><img src="https://github.com/aenq/aenq/blob/main/GUEST_BOOK_GIF.gif" alt="Guest book"></a>
+</div>
 
-- 💬 Me pergunte sobre **Python, C e Machine Learning**
-
-- 📫Você me acha através do e-mail **francieli.mcarvalho@gmail.com**
-
-- 📄 Aqui estão as minhas habilidades  [https://www.linkedin.com/in/francielidecarvalho/](https://www.linkedin.com/in/francielidecarvalho/)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/francielidecarvalho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francielidecarvalho/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/francielimoreira_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/francielimoreira_/" height="30" width="40" /></a>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aenq&label=Profile%20views&color=0e75b6&style=flat" alt="aenq" /> </p>
 
