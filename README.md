@@ -51,7 +51,8 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 
 ---
-
+<div>
+ 
 ### Languages and Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
