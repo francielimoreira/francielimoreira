@@ -1,5 +1,4 @@
-### Hi I am "Francieli Moreira". 👋
-<h1 align="center">Hi there, I am Fran 💗</h1>
+### Hi I am "Fran" 💗
 
 #### Glad to see you here! 🤩
 
