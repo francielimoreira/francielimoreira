@@ -10,7 +10,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/francielimoreira/francielimoreira?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
----
+#### Glad to see you here! 🤩
 <div style="text-align: justify"> 
 
 I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 from Goias Federal University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. 💻 I'm currently improving my skills in natural language processing 🕸️ and looking for an opportunity in the area  🤓.
