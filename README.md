@@ -50,6 +50,9 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 [<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/francielimoreira_)
 
+<a href="mailto:francieli.mcarvalho@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+
 </div>
 
 <br>
