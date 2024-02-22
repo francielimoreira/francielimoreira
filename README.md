@@ -55,7 +55,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/3K16ZsnNjOTY1Esnrx0rQg)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/zwz7odfdomevmm2rh1iqjmmp0)
 
 ---
 
