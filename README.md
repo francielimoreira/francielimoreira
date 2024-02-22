@@ -51,7 +51,12 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/zwz7odfdomevmm2rh1iqjmmp0)
 
 ---
+### Connect with me:
+<div>
 
+[<img align="left" alt="Sneha Kumari  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/francielidecarvalho/)
+
+[<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/francielimoreira_)
 
 
 ### Contact with me 📝
