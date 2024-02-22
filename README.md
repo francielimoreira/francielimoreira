@@ -32,16 +32,7 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 - ⚡ Fun fact: I love playing sports and electronic music
 
-### Connect with me:
-<div>
-
-[<img align="left" alt="Sneha Kumari  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/francielidecarvalho/)
-
-[<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/francielimoreira_)
-
 </div>
-
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
