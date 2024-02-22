@@ -57,6 +57,12 @@
 ---
 <div style="text-align: justify"> 
 
+I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 from Goias Federal University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently improving my skills in natural language processing 🕸️ and looking for an opportunity in the area  🤓.
+
+</div>
+
+
+
 - 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS etc.
 - 📚 Learning everything about AI Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
