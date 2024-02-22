@@ -1,4 +1,4 @@
-### Hi I am "Fran" 💗
+### Hi I am Fran 💗
 
 #### Glad to see you here! 🤩
 
