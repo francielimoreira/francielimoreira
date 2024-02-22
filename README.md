@@ -41,7 +41,21 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm Francieli moreira 
+### Hi I am "Francieli Moreira". 👋
+
+#### Glad to see you here! 🤩
+
+<p>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Snehakri022)
+ &nbsp;
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=francielimoreira&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+ &nbsp;
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/francielimoreira/francielimoreira?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</p>
+
+---
+<div style="text-align: justify"> 
 
 - 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS etc.
 - 📚 Learning everything about AI Frontend and Backend technologies 😉
