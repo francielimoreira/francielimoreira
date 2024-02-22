@@ -38,7 +38,7 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Vamos ouvir juntos 🎧
+### Let's listen together 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/zwz7odfdomevmm2rh1iqjmmp0)
 
