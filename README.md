@@ -2,7 +2,6 @@
 
 #### Glad to see you here! 🤩
 
-<p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Snehakri022)
  &nbsp;
