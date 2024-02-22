@@ -22,8 +22,7 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 </div>
 
-<img align="right" height="270px" alt="GIF" src=""https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS etc.
 - 📚 Learning everything about AI Frontend and Backend technologies 😉
