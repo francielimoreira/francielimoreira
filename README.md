@@ -72,7 +72,7 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 <br/>
   
-  <img align="center" alt="francielimoreira's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
+  <img align="center" alt="francielimoreira's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=francielimoreira&theme=github"/>
   
 </p>
   
