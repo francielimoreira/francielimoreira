@@ -20,11 +20,27 @@ I'm a final year student pursuing Bachelors's in Artifical Intelligence 🎓 fro
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 Currently working on web development technologies JavaScript, React, SCSS etc.
-- 📚 Learning everything about AI Frontend and Backend technologies 😉
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play snooker and listen eminem music 🎱.
-- 💪🏼 Writing inspiring quotes, social science, psychology, and neuroscience podcasts.
+- 🔭  I am currently working on Natural Language Processing Projects
+
+- 🌱 I'm currently learning about Large Language Models (LLMs) and Machine Learning Operations (MLOps)
+
+- 💬 Ask me anything 🤓
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/francielidecarvalho/) [E-mail](francieli.mcarvalho@gmail.com) 
+
+- 🥅 2024 Goals: Contribute to Open Source projects and Learn more technologies
+
+- ⚡ Fun fact: I love playing sports and electronic music
+
+### Connect with me:
+<div>
+
+[<img align="left" alt="Sneha Kumari  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/francielidecarvalho/)
+
+[<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/francielimoreira_)
+
+</div>
+
 
 ---
 
